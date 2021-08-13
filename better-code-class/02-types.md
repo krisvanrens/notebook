@@ -1028,7 +1028,7 @@ if (a == b) some_operation();
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "fragment"} -->
-- For the paranoid library writeer, the standard supplies `std::addressof()`.
+- For the paranoid library writer, the standard supplies `std::addressof()`.
 <!-- #endregion -->
 
 <!-- #region slideshow={"slide_type": "slide"} -->
